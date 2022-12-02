@@ -1,0 +1,2 @@
+- Country of origin: 🇸🇰 
+- Launguages: V, Rust, Python, Shell, Ansible
